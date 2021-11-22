@@ -1,3 +1,4 @@
+Форк для перевода мода и пулла в оригинал
 # Wolftaming
 This mod is aiming at making the wolfes in Vintage Story tameable and useful companions to the player.
 
